@@ -1,5 +1,4 @@
 "use client";
-import Navbar from "@/components/navbar";
 import { CreateCodeForm } from "@/components/createCodeForm";
 
 export default function CreateCodePage() {
